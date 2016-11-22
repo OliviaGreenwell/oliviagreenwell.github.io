@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Olivia Greenwell | Author</title>
+<title>{{site.title}} | {{site.subtitle}}</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="https://oliviagreenwell.wordpress.com/xmlrpc.php">
 
@@ -77,7 +77,7 @@ img.emoji {
 <link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/c9e8b78e2f79f85a6b4a7d17c84bee9c?s=32" sizes="16x16" />
 <link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/c9e8b78e2f79f85a6b4a7d17c84bee9c?s=32" sizes="16x16" />
 <link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/c9e8b78e2f79f85a6b4a7d17c84bee9c?s=114" />
-<link rel="search" type="application/opensearchdescription+xml" href="osd.xml" title="Olivia Greenwell" />
+<link rel="search" type="application/opensearchdescription+xml" href="/osd.xml" title="Olivia Greenwell" />
 <link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
 <meta name="theme-color" content="#eeeeee" />
 		<style type="text/css">
@@ -120,7 +120,7 @@ img.emoji {
 				padding: 0px 10px 0px 0px;
 			}
 		</style>
-		<meta name="application-name" content="Olivia Greenwell" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Author" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://oliviagreenwell.wordpress.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/c9e8b78e2f79f85a6b4a7d17c84bee9c?s=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Olivia&#8217;s First Book &#8211; Available&nbsp;Now! | Olivia Greenwell on WordPress.com" />
+		<meta name="application-name" content="Olivia Greenwell" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Author" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://oliviagreenwell.wordpress.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/c9e8b78e2f79f85a6b4a7d17c84bee9c?s=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Olivia&#8217;s First Book &#8211; Available&nbsp;Now! | **$1** on WordPress.com" />
 <meta name="description" content="Olivia Greenwell&#039;s first book So You&#039;ve Retired - What&#039;s Next? was published in the summer of 2016 with great success, quickly achieving Best Seller status on Amazon.com. Due to its popularity it has now been expanded for sale across the kindle, paperback and audiobook formats, available through all Amazon sales channels around the world. This practical guide cheerfully steers retirees&hellip;" />
 <style type="text/css" id="syntaxhighlighteranchor"></style>
 </head>
@@ -130,25 +130,17 @@ img.emoji {
 	<a class="skip-link screen-reader-text" href="index.html#content">Skip to content</a>
 	<header id="masthead" class="site-header" role="banner">
 		<div class="site-branding">
-						<h1 class="site-title"><a href="index.html" rel="home">Olivia Greenwell</a></h1>
-			<h2 class="site-description">Author</h2>
+						<h1 class="site-title"><a href="index.html" rel="home">{{site.title}}</a></h1>
+			<h2 class="site-description">{{site.subtitle}}</h2>
 		</div>
 
-		<nav id="site-navigation" class="main-navigation" role="navigation">
-			<button class="menu-toggle">Menu</button>
-			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-92"><a href="index.html">Home</a></li>
-<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="about/index.html">About</a></li>
-<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="books/index.html">Books</a></li>
-<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="contact/index.html">Contact</a></li>
-</ul></div>		</nav><!-- #site-navigation -->
+		{% include navigation.html %}
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-      <h1>{{page.title}}</h1>
-
       {{content}}
 		</main><!-- #main -->
 	</div><!-- #primary -->

@@ -1,3 +1,7 @@
+---
+order: 4
+title: Contact
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -54,7 +58,7 @@ img.emoji {
 <link rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/_static/??-eJx9i9EKwjAMRX/IGmVj80X8lqx0bSRNSpPh74sPIjLx6Z4L58CjhajiSRzqFhpvmcQAo5PKgv1Dx2h2gN96U/OwMlIHK9hJ8nv/VaaRkANr1u+zi7ykmgzKCJl1QX4Jt3o9j/M0DJdpPt2fxX5JuQ==' type='text/css' media='all' />
 <script type='text/javascript' src='https://s0.wp.com/_static/??-eJyFzt0KwjAMBeAXsiv+Tb0Qn6WrcaQuaW1Shz69HeiFMBQCgZyPQ+yYDLIfyhnEhjq3AvnxXk2Qhf0FDGGfnUJDyB/sIyuwTpZihwOYIpBdX2+16BJnXIqiBCIVzaTfLyHfEca/LIAm568mg+Bzaj3Rcblp2+1qfdjtwws0V1vd'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%3Frsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress.com" />
 <link rel="canonical" href="index.html" />
 <link rel='shortlink' href='http://wp.me/P87yfB-3' />
@@ -146,12 +150,12 @@ img.emoji {
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">
-		
+
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
-			
-				
+
+
 <article id="post-3" class="post-3 page type-page status-publish hentry">
 	<header class="entry-header">
 		<h1 class="entry-title">Contact</h1>	</header><!-- .entry-header -->
@@ -191,8 +195,8 @@ img.emoji {
 	<footer class="entry-footer">
 			</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
-				
-			
+
+
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
@@ -202,7 +206,7 @@ img.emoji {
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
 			<a href="https://wordpress.com/?ref=footer_custom_powered">Powered by WordPress.com</a>.
-			
+
 					</div><!-- .site-info -->
 					<div class="social-links"><ul id="menu-social-links" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://facebook.com/"><span class="screen-reader-text">Facebook</span></a></li>
 <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://twitter.com/wordpressdotcom"><span class="screen-reader-text">Twitter</span></a></li>
@@ -289,20 +293,20 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 
 	wpcom_mobile_user_agent_info.init();
 	var mobileStatsQueryString = "";
-	
+
 	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
 		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
-	
+
 	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
 		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
-	
+
 	if( wpcom_mobile_user_agent_info.isIPad() )
 		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
 
 	if( "" != mobileStatsQueryString ) {
 		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
 	}
-	
+
 }
 </script>
 </body>
