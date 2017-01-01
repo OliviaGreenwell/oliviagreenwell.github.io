@@ -5,10 +5,9 @@
       {% assign sorted_pages = site.pages | sort:"order" %}
       {% for node in sorted_pages %}
       <li class="menu-item {% if page.url == node.url %}current-menu-item{% endif %}">
-        <a href="{{node.url}}">{{node.title}}</a>
+        <a href="{{node.url}}">{{node.navigationtitle}}</a>
       </li>
       {% endfor %}
     </ul>
   </div>
 </nav>
-<!-- #site-navigation -->

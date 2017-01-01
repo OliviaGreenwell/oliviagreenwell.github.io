@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Home
+title: Olivia's First Book — Available Now!
+navigationtitle: Home
 order: 1
 ---
 # Olivia's First Book — Available Now!
@@ -11,4 +12,4 @@ This practical guide cheerfully steers retirees of any age through what can be
 
 <span style="font-weight:400;">This book's mission is to help you discover what makes YOU happy, and how to enjoy your life to the fullest.</span>
 
-<span style="color:#00ccff;">**So You've Retired — What's Next?**</span> is available to purchase on <span style="color:#993366;">**<a style="color:#993366;" href="books/index.html">Kindle, in paperback or in audiobook format, visit the Books page now to find out more</a>**</span>.
+<span style="color:#00ccff;">**So You've Retired — What's Next?**</span> is available to purchase on **[Kindle, in paperback or in audiobook format, visit the Books page now to find out more](/books/){:style="color:#993366;"}**.
