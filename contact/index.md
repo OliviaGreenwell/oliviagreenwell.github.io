@@ -27,6 +27,7 @@ For all enquiries about Olivia Greenwell's existing publications, or future book
 </div>
 <p class='contact-submit'>
 	<input type='submit' value='Submit &#187;' class='pushbutton-wide'/>
+  <input type="hidden" name="_next" value="//oliviagreenwell.github.io/contact/thanks.html" />
   <input type="hidden" name="_subject" value="New submission!" />
   <input type="text" name="_gotcha" style="display:none" />
 </p>
