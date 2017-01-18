@@ -3,6 +3,7 @@ subtitle: Author
 gravatarmd5: c9e8b78e2f79f85a6b4a7d17c84bee9c
 
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - docker-compose.yml
