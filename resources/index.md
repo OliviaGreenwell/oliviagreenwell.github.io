@@ -1,15 +1,17 @@
 ---
-layout: page
+layout: nosidebar
 order: 5
 title: Resources
-navigationtitle: 
+navigationtitle: Resources
+
 ---
 # Resources
 
-To complement Olivia's books here you will find tools and useful links which she refers to in her books.
+Gain **exclusive access** to Olivia's Resources page by providing your contact details. From time to time Olivia will send you news on her upcoming book launches and special offers.
 
-**How To Retire** **- A Practical Guide As You Countdown To Retirement**
+These resources are designed to be used in conjunction with **<a href="http://oliviagreenwell.com/books/">Olivia's books</a>**:
+**How To Retire** - A Practical Guide As You Countdown To Retirement<br/>
+**So You've Retired** - A Practical Guide For Your Happy Retirement
 
-*The following action plan is intended to offer assistance for thinking about your retirement plans, however this is in no way intended as financial advice. You should always do your own research and seek advice from a registered financial professional.*
+<script async id="_ck_161486" src="https://forms.convertkit.com/161486?v=6"></script>
 
-**[Retirement Action Plan](https://docs.google.com/spreadsheets/d/1A0_02AaFvuEWktk-yS2biNi_lTg2il43i6xLN7qiCJ4/edit?usp=sharing){:target="_blank" style="color:#00ccff;"}**
