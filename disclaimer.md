@@ -15,7 +15,7 @@ Please also be aware that when you leave the website, other sites may have diffe
 By using this website and any links contained therein, you hereby consent to this disclaimer and agree to its terms.
 
 __________________
-If you require any more information or have any questions about this site's disclaimer, please feel free to contact Olivia using the site's [contact form](http://oliviagreenwell.com/contact/).
+If you require any more information or have any questions about this site's disclaimer, please feel free to contact Olivia using the site's [contact form](/contact/).
 
 
 
