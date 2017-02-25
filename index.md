@@ -45,4 +45,4 @@ A **must read** for anyone approaching retirement or for those who are already�
 <br>
 <br>
 
-Copyright © 2016-2017 Olivia Greenwell. [Disclaimer](/disclaimer/) for Olivia Greenwell.
+Copyright © 2016-2017 Olivia Greenwell. [Disclaimer](/disclaimer.html/) for Olivia Greenwell.
