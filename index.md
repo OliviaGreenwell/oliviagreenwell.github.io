@@ -4,7 +4,7 @@ title: Olivia Greenwell Home
 navigationtitle: Home
 order: 1
 ---
-# Exciting News: Second Book Launched!
+# Second Book Launched!
 Building on the continuing success of Olivia Greenwell's first book
  <span style="color:#00ccff;">**_So You've Retired — A Practical Guide For Your Happy Retirement_**</span>, Olivia is extremely proud to announce the launch of her latest book:<br>
 ### <span style="color:#08298A;">How To Retire - A Practical Guide As You Countdown To Retirement</span>
