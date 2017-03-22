@@ -6,7 +6,34 @@ navigationtitle: Books
 ---
 # Olivia Greenwell Books
 
-Olivia's first book <span style="color:#00ccff;">**So You've Retired — What's Next?**</span> is available for purchase in paperback, kindle or audio formats. Links to the USA and UK Amazon versions are below, if you are looking for this book from other countries it is possible to find it using the search feature within Amazon for your country.
+You can purchase Olivia Greenwell books on Amazon, Createspace and Audible.
+
+<span style="color:#00ccff;">**How To Retire: A Practical Guide As You Countdown To Retirement**</span><br>
+Available for purchase in Kindle and Paperback formats, this book is targeted at US residents with two of the chapters specifically talking about investment and retirement options for the United States. However for non-US residents the key message of the book for how to prepare for retirement from an early age still applies. Links to the USA Amazon versions are below, if you are looking for this book from the UK it is possible to find it using the search feature in Amazon.
+
+## Kindle
+
+| **[Amazon USA][KindleHTRUSA]** |
+| [![HTR_KDP_cover][KindleHTRImage]][KindleHTRUSA] |
+
+## Paperback
+
+| **[Amazon USA][PaperbackHTRUSA]** | 
+| [![HTR_3D_book][PaperbackHTRImage]][PaperbackHTRUSA] |
+
+
+  [KindleHTRUSA]: https://www.amazon.com/How-Retire-Practical-Countdown-Retirement-ebook/dp/B06X9GDBCV
+  {:target="_blank"}
+   [KindleHTRImage]: /images/HTR_KDP_cover.jpg
+  {:height="216px" width="135px"}
+  [PaperbackHTRUSA]: https://www.amazon.com/How-Retire-Practical-Countdown-Retirement/dp/154314649X
+  {:target="_blank"}
+   [PaperbackHTRImage]: /images/HTR_3D_book.png
+  {:height="216px" width="170px"}
+ 
+
+<span style="color:#00ccff;">**So You've Retired — What's Next?**</span><br>
+Available for purchase in Paperback, Kindle or Audiobook formats. Links to the USA and UK Amazon versions are below, if you are looking for this book from other countries it is possible to find it using the search feature within Amazon for your country.
 
 ## Kindle
 
