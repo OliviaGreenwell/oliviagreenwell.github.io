@@ -2,7 +2,7 @@
   <button class="menu-toggle">Menu</button>
   <div class="menu-main-menu-container">
     <ul id="menu-main-menu" class="menu">
-      {% assign sorted_pages = site.pages | sort:"order" %}
+      {% assign sorted_pages = site.pages | where_exp: "page", "page.navigationtitle" | sort:"order" %}
       {% for node in sorted_pages %}
       <li class="menu-item {% if page.url == node.url %}current-menu-item{% endif %}">
         <a href="{{node.url}}">{{node.navigationtitle}}</a>
