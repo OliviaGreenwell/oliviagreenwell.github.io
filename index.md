@@ -42,7 +42,4 @@ A **must read** for anyone approaching retirement or for those who are already�
 
 <span style="color:#00ccff;">**_So You've Retired_**</span> is available to purchase on **Kindle, in Paperback or in Audiobook format. [Visit the Books page now to find out more](/books/){:style="color:#993366;"}**.
 
-<br>
-<br>
 
-Copyright © 2016-2017 Olivia Greenwell. [Disclaimer](/disclaimer.html) for Olivia Greenwell.
