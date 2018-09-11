@@ -8,8 +8,10 @@ navigationtitle: Books
 
 You can purchase Olivia Greenwell books on Amazon, Createspace and Audible.
 
-<span style="color:#00ccff;">**How To Retire: A Practical Guide As You Countdown To Retirement**</span><br>
+<a href="/books/howtoretire.html"><span style="color:#00ccff;">**How To Retire: A Practical Guide As You Countdown To Retirement**</span></a><br>
 Available for purchase in Kindle and Paperback formats, this book is targeted at US residents with two of the chapters specifically talking about investment and retirement options for the United States. However for non-US residents the key message of the book for how to prepare for retirement from an early age still applies. Links to the USA Amazon versions are below, if you are looking for this book from the UK it is possible to find it using the search feature in Amazon.
+
+[Click here for more information on this book](/books/howtoretire.html).
 
 ## Kindle
 
@@ -31,9 +33,11 @@ Available for purchase in Kindle and Paperback formats, this book is targeted at
    [PaperbackHTRImage]: /images/HTR_3D_book.png
   {:height="216px" width="170px"}
  
-
-<span style="color:#00ccff;">**So You've Retired — What's Next?**</span><br>
+<br>
+<a href="/books/soyouveretired.html"><span style="color:#00ccff;">**So You've Retired — What's Next?**</span></a><br>
 Available for purchase in Paperback, Kindle or Audiobook formats. Links to the USA and UK Amazon versions are below, if you are looking for this book from other countries it is possible to find it using the search feature within Amazon for your country.
+
+[Click here for more information on this book](/books/soyouveretired.html).
 
 ## Kindle
 
@@ -68,3 +72,33 @@ Available for purchase in Paperback, Kindle or Audiobook formats. Links to the U
   {:target="_blank"}
   [AudiobookImage]: /images/cover-for-audible-png.png
   {:height="122px" width="122px"}
+  
+<br>
+<span style="color:#00ccff;">**Retirement: Everything You Need To Know About Planning For And Living The Retired Life You’ve Always Dreamed Of**</span><br>
+This is the two book bundle of Olivia's books "How To Retire" and "So You've Retired". Available for purchase in Paperback or Kindle formats. Links to the USA and UK Amazon versions are below, if you are looking for this book from other countries it is possible to find it using the search feature within Amazon for your country.
+
+## Kindle
+
+| **[Amazon USA][RetKindleUSA]** | **[Amazon UK][RetKindleUK]** |
+| [![Retirement bundle book for US Kindle][RetKindleImage]][RetKindleUSA] | [![Retirement bundle book for UK Kindle][RetKindleImage]][RetKindleUK] |
+
+## Paperback
+
+| **[Amazon USA][RetPaperbackUSA]** | **[Amazon UK][RetPaperbackUK]** |
+| [![Retirement bundle book for US paperback][RetKindleImage]][RetPaperbackUSA] | [![Retirement bundle book for UK paperback][RetKindleImage]][RetPaperbackUK] |
+
+[RetKindleUSA]: https://www.amazon.com/gp/product/B07FKRFDHM
+  {:target="_blank"}
+
+[RetKindleUK]: https://www.amazon.co.uk/Retirement-Everything-Planning-Retired-Dreamed-ebook/dp/B07FKRFDHM
+  {:target="_blank"}
+
+[RetKindleImage]: /images/retirement-cover.jpg
+  {:height="216px" width="135px"}
+  
+[RetPaperbackUSA]: https://www.amazon.com/Retirement-Everything-Planning-Retired-Dreamed/dp/1721529101
+  {:target="_blank"}
+
+[RetPaperbackUK]: https://www.amazon.co.uk/Retirement-Everything-Planning-Retired-Dreamed/dp/1721529101
+  {:target="_blank"}
+
