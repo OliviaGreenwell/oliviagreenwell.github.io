@@ -16,8 +16,10 @@ Olivia is proud to present her books:
 All books are available to purchase in **Kindle and Paperback formats.<br>
 [Visit the Books page now to find out more](/books/){:style="color:#993366;"}**.
 <br>
-<br>
 
+***
+
+You can also find Olivia on [**Facebook**](https://www.facebook.com/ogreenwell/){:target="_blank" style="color:#3B5998;"}.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
