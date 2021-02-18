@@ -9,7 +9,7 @@ navigationtitle: Contact
 For all enquiries about Olivia Greenwell's existing publications, or future books and promotions please use the form below.
 
 <div id='contact-form-3'>
-<form action='https://formspree.io/oliviagreenwell@inspiringlifedesign.com' method='post' class='contact-form commentsblock'>
+<form action='https://formspree.io/f/xwkwjrzd' method='post' class='contact-form commentsblock'>
 
 <div>
 	<label for='g3-name' class='grunion-field-label name'>Name<span>(required)</span></label>
