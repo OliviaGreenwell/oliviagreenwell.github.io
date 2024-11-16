@@ -84,7 +84,7 @@ Links to the USA and UK Amazon versions are below, if you are looking for this b
   
 <br>
 <span style="color:#00ccff;">**Retirement: Everything You Need To Know About Planning For And Living The Retired Life You’ve Always Dreamed Of**</span><br>
-This is the two book bundle of Olivia's books "How To Retire" and "So You've Retired". Available for purchase in Paperback or Kindle formats. Links to the USA and UK Amazon versions are below, if you are looking for this book from other countries it is possible to find it using the search feature within Amazon for your country.
+This is the two book bundle of Olivia's books "How To Retire" and "So You've Retired". Links to the USA and UK Amazon versions are below, if you are looking for this book from other countries it is possible to find it using the search feature within Amazon for your country.
 
 ## Kindle
 
@@ -96,6 +96,11 @@ This is the two book bundle of Olivia's books "How To Retire" and "So You've Ret
 | **[Amazon USA][RetPaperbackUSA]** | **[Amazon UK][RetPaperbackUK]** |
 | [![Retirement bundle book for US paperback][RetKindleImage]][RetPaperbackUSA] | [![Retirement bundle book for UK paperback][RetKindleImage]][RetPaperbackUK] |
 
+## Audible
+
+| **[Amazon USA][RetAudibleUSA]** | **[Amazon UK][RetAudibleUK]** |
+| [![Retirement bundle book for US Audible][RetAudibleImage]][RetAudibleUSA] | [![Retirement bundle book for UK audible][RetAudibleImage]][RetAudibleUK] |
+
 [RetKindleUSA]: https://www.amazon.com/gp/product/B07FKRFDHM
   {:target="_blank"}
 
@@ -104,10 +109,19 @@ This is the two book bundle of Olivia's books "How To Retire" and "So You've Ret
 
 [RetKindleImage]: /images/retirement-cover.jpg
   {:height="216px" width="135px"}
+
+[RetAudibleImage]: /images/ret-audible-cover.jpg
+  {:height="122px" width="122px"}
   
 [RetPaperbackUSA]: https://www.amazon.com/Retirement-Everything-Planning-Retired-Dreamed/dp/1721529101
   {:target="_blank"}
 
 [RetPaperbackUK]: https://www.amazon.co.uk/Retirement-Everything-Planning-Retired-Dreamed/dp/1721529101
+  {:target="_blank"}
+
+[RetAudibleUSA]: https://www.amazon.com/Retirement-Everything-Planning-Retired-Dreamed/dp/B07PGWV1T7/
+  {:target="_blank"}
+
+[RetAudibleUK]: https://amzn.to/40Nb7ST
   {:target="_blank"}
 
