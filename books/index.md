@@ -6,7 +6,7 @@ navigationtitle: Books
 ---
 # Olivia Greenwell Books
 
-You can purchase Olivia Greenwell books on Amazon in Kindle, Paperback and Audible formats.
+You can purchase Olivia Greenwell books on Amazon in Kindle, Paperback and Audiobook formats.
 
 <a href="/books/howtoretire.html"><span style="color:#00ccff;">**How To Retire: A Practical Guide As You Countdown To Retirement**</span></a><br>
 This book is targeted at US residents with two of the chapters specifically talking about investment and retirement options for the United States. However for non-US residents the key message of the book for how to prepare for retirement from an early age still applies. Links to the USA Amazon versions are below, if you are looking for this book from the UK it is possible to find it using the search feature in Amazon.
@@ -58,7 +58,7 @@ Links to the USA and UK Amazon versions are below, if you are looking for this b
 | **[Amazon USA][PaperbackUSA]** | **[Amazon UK][PaperbackUK]** |
 | [![regular-cover-for-kindle][PaperbackImage]][PaperbackUSA] | [![regular-cover-for-kindle][PaperbackImage]][PaperbackUK] |
 
-## Audiobook
+## Audible
 
 | **[Amazon USA][AudiobookUSA]** | **[Amazon UK][AudiobookUK]** |
 | [![regular-cover-for-kindle][AudiobookImage]][AudiobookUSA] | [![regular-cover-for-kindle][AudiobookImage]][AudiobookUK] |
