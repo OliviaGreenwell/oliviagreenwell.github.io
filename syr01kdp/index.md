@@ -7,9 +7,10 @@ title: Resources
 
 <span style="color:#00ccff;">**So You've Retired - A Practical Guide For Your Happy Retirement**</span>
 
-As a thank you for reading my book and joining my mailing list, I have created a special resource area.
+As a thank you for reading my book I have created a **Retirement Action Plan**, which can be used to assist with savings calculations, while putting together a plan for when you can retire. This is referenced in my other book, "How To Retire".
 
-Here you will find a **Retirement Action Plan**, which can be used to assist with savings calculations, while putting together a plan for when you can retire. This is referenced in my other book, "How To Retire".
+**[Retirement Action Plan](https://docs.google.com/spreadsheets/d/1A0_02AaFvuEWktk-yS2biNi_lTg2il43i6xLN7qiCJ4/edit?usp=sharing){:target="_blank" style="color:#00ccff;"}**
 
-Simply enter your contact details below to gain access to this exclusive area of the site, as well as to receive news on upcoming book launches and special offers.
-<script async id="_ck_181788" src="https://forms.convertkit.com/181788?v=6"></script>
+*The plan listed on this page is intended to offer assistance for thinking about your retirement plans, however it is in no way intended as financial advice. You should always* ***do your own research*** *and seek advice from a registered financial professional. You agree that by clicking any links on this site and using the content therein, that you do so at your own risk, and acknowledge that you have not received financial advice from this site.*
+<br><br>
+
