@@ -6,10 +6,10 @@ navigationtitle: Books
 ---
 # Olivia Greenwell Books
 
-You can purchase Olivia Greenwell books on Amazon, Createspace and Audible.
+You can purchase Olivia Greenwell books on Amazon in Kindle, Paperback and Audible formats.
 
 <a href="/books/howtoretire.html"><span style="color:#00ccff;">**How To Retire: A Practical Guide As You Countdown To Retirement**</span></a><br>
-Available for purchase in Kindle and Paperback formats, this book is targeted at US residents with two of the chapters specifically talking about investment and retirement options for the United States. However for non-US residents the key message of the book for how to prepare for retirement from an early age still applies. Links to the USA Amazon versions are below, if you are looking for this book from the UK it is possible to find it using the search feature in Amazon.
+This book is targeted at US residents with two of the chapters specifically talking about investment and retirement options for the United States. However for non-US residents the key message of the book for how to prepare for retirement from an early age still applies. Links to the USA Amazon versions are below, if you are looking for this book from the UK it is possible to find it using the search feature in Amazon.
 
 [Click here for more information on this book](/books/howtoretire.html).
 
@@ -23,6 +23,11 @@ Available for purchase in Kindle and Paperback formats, this book is targeted at
 | **[Amazon USA][PaperbackHTRUSA]** | 
 | [![HTR_3D_book][PaperbackHTRImage]][PaperbackHTRUSA] |
 
+## Audible
+
+| **[Amazon USA][AudibleHTRUSA]** | 
+| [![HTR_3D_book][AudibleHTRImage]][AudibleHTRUSA] |
+
 
   [KindleHTRUSA]: https://www.amazon.com/How-Retire-Practical-Countdown-Retirement-ebook/dp/B06X9GDBCV
   {:target="_blank"}
@@ -32,10 +37,14 @@ Available for purchase in Kindle and Paperback formats, this book is targeted at
   {:target="_blank"}
    [PaperbackHTRImage]: /images/HTR_3D_book.png
   {:height="216px" width="170px"}
+  [AudibleHTRUSA]: https://www.amazon.com/How-Retire-Practical-Countdown-Retirement/dp/B07NQRNKNZ/
+  {:target="_blank"}
+   [AudibleHTRImage]: /images/htr-audible-cover.jpg
+  {:height="216px" width="170px"}
  
 <br>
 <a href="/books/soyouveretired.html"><span style="color:#00ccff;">**So You've Retired — What's Next?**</span></a><br>
-Available for purchase in Paperback, Kindle or Audiobook formats. Links to the USA and UK Amazon versions are below, if you are looking for this book from other countries it is possible to find it using the search feature within Amazon for your country.
+Links to the USA and UK Amazon versions are below, if you are looking for this book from other countries it is possible to find it using the search feature within Amazon for your country.
 
 [Click here for more information on this book](/books/soyouveretired.html).
 
