@@ -14,5 +14,3 @@ Having published her first book **[So You've Retired? A Practical Guide For Your
 
 In July 2018 Olivia made a bundle of her two books available for purchase on Kindle and Paperback. This was aptly titled **[Retirement: Everything You Need To Know About Planning For And Living The Retired Life You’ve Always Dreamed Of](https://www.amazon.com/gp/product/B07FKRFDHM){:target="_blank" style="color:#00ccff;"}**.
 
-Be sure to sign up below for **breaking news** of Olivia's future projects, **exclusive advance** book previews, **special promotions** and get to be **the first to know** about launch dates:
-<script async id="_ck_128701" src="https://forms.convertkit.com/128701?v=6"></script>
