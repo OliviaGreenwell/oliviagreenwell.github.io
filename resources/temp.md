@@ -1,8 +1,8 @@
 ---
 layout: nosidebar
-order: 5
+<!-- order: 5
 title: Resources
-navigationtitle: Resources
+navigationtitle: Resources -->
 
 ---
 # Resources
@@ -15,3 +15,4 @@ These resources are designed to be used in conjunction with **<a href="http://ol
 
 <script async id="_ck_161486" src="https://forms.convertkit.com/161486?v=6"></script>
 
+ <!-- Right footer goes here -->
